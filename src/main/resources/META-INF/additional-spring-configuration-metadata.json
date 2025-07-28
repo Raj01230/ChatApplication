@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "app.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.secret'"
+  },
+  {
+    "name": "socket-server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'socket-server.port'"
+  },
+  {
+    "name": "socket-server.host",
+    "type": "java.lang.String",
+    "description": "A description for 'socket-server.host'"
+  }
+]}
